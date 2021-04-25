@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simbirsoft-test-app/static/css/main.44e25928.chunk.css",
+    "main.js": "/simbirsoft-test-app/static/js/main.0681c176.chunk.js",
+    "main.js.map": "/simbirsoft-test-app/static/js/main.0681c176.chunk.js.map",
+    "runtime-main.js": "/simbirsoft-test-app/static/js/runtime-main.cd0885d1.js",
+    "runtime-main.js.map": "/simbirsoft-test-app/static/js/runtime-main.cd0885d1.js.map",
+    "static/js/2.96eda096.chunk.js": "/simbirsoft-test-app/static/js/2.96eda096.chunk.js",
+    "static/js/2.96eda096.chunk.js.map": "/simbirsoft-test-app/static/js/2.96eda096.chunk.js.map",
+    "index.html": "/simbirsoft-test-app/index.html",
+    "static/css/main.44e25928.chunk.css.map": "/simbirsoft-test-app/static/css/main.44e25928.chunk.css.map",
+    "static/js/2.96eda096.chunk.js.LICENSE.txt": "/simbirsoft-test-app/static/js/2.96eda096.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd0885d1.js",
+    "static/js/2.96eda096.chunk.js",
+    "static/css/main.44e25928.chunk.css",
+    "static/js/main.0681c176.chunk.js"
+  ]
+}
