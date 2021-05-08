@@ -1,17 +1,14 @@
-import React, { useCallback, useState } from "react";
+import React from "react";
 import "./App.css";
 
-const App = () => {
-  const [counter, setCounter] = useState<number>(0);
+import Competitions from "pages/competitions";
+import Competition from "pages/competition";
 
-  const handleClick = useCallback(() => {
-    setCounter((count) => count + 1);
-  }, []);
+const App: React.FC<any> = () => {
   return (
     <div className="App-wrapper">
-      <div onClick={handleClick} className="App">
-        {counter}
-      </div>
+      <Competitions />
+      <Competition />
     </div>
   );
 };
